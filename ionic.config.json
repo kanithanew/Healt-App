@@ -1,6 +1,6 @@
 {
-  "name": "test",
-  "app_id": "c71a228c",
+  "name": "Healt App",
+  "app_id": "580d3ae6",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
